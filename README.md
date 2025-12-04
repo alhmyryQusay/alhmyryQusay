@@ -1,4 +1,4 @@
-# 🛡️ قصي الحميري | Cybersecurity Enthusiast
+# 🛡️ قصي الحميري | Security Analyst
 
 <div align="center">
   
