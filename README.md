@@ -63,158 +63,4 @@
 
 </div>
 
----
-
-## 📚 الشهادات والإنجازات
-
-<div align="center">
-
-![Certified](https://img.shields.io/badge/Certified-Security%20Professional-red?style=for-the-badge&logo=certification&logoColor=white)
-
-</div>
-
-- 🔐 **CEH (Certified Ethical Hacker)** - قيد التحضير
-- 🛡️ **CISSP (Certified Information Systems Security Professional)** - مخطط له
-- 🎖️ **CompTIA Security+** - مخطط له
-- 🏆 **مسابقات CTF محلية** - مشارك نشط
-- 💻 **هاكاثون الأمن السيبراني** - مشاركة متكررة
-
----
-
-## 🚀 المشاريع الحالية والمكتملة
-
-### 🔍 **مشروع تحليل البرمجيات الخبيثة**
-```
-📁 malware-analysis-project/
-├── 📄 تحليل السلوك [Python]
-├── 📊 إحصائيات التهديدات
-├── 📝 تقرير أمني مفصل
-└── 🔧 أدوات التحليل المطور
-```
-
-### 🌐 **مشروع أمان الشبكات**
-```
-📁 network-security-project/
-├── 🛡️ جدار الحماية المطور
-├── 📊 مراقبة الشبكة
-├── 🔍 كشف التسلل
-└── 📈 تحليل حركة البيانات
-```
-
-### 🔐 **أدوات الاختبار الأمني**
-```
-📁 security-tools/
-├── 🔎 ماسح الثغرات
-├── 🛠️ أدوات تحليل الشبكات
-├── 📱 تطبيقات أمنية للهواتف
-└── 🔧 سكريبتات الأتمتة الأمنية
-```
-
----
-
-## 📊 إحصائيات GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=قصي-الحميري&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-</div>
-
-<div align="center">
-
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=قصي-الحميري&theme=radical&hide_border=true&border_radius=10)
-
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=قصي-الحميري&layout=compact&theme=radical&hide=html,css)
-
-</div>
-
----
-
-## 🌟 المساهمات المفتوحة
-
-<div align="center">
-
-![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
-أرحب بالمساهمات في المشاريع الأمنية! 🚀
-
-- 🔧 تحسين أدوات الأمن السيبراني
-- 📚 توثيق التقنيات الأمنية
-- 🐛 إصلاح الثغرات في المشاريع
-- 💡 اقتراح أفكار جديدة للأمان
-
----
-
-## 📞 التواصل
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-cyber.student@example.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:cyber.student@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn- قصي%20الحميري-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/قصي-الحميري)
-[![Phone](https://img.shields.io/badge/Phone-+967%20XXXXXXXXX-green?style=flat-square&logo=phone&logoColor=white)](tel:+967XXXXXXXXX)
-[![Location](https://img.shields.io/badge/Location-Yemen-blue?style=flat-square&logo=map-marker-alt&logoColor=white)](https://maps.google.com/?q=Yemen)
-
-</div>
-
----
-
-## 🎯 اهتمامات أخرى
-
-<div align="center">
-
-| المجال | المستوى |
-|---------|----------|
-| 🧠 الذكاء الاصطناعي في الأمن | ⭐⭐⭐⭐ |
-| 🔗 تقنية البلوك تشين | ⭐⭐⭐ |
-| 📱 أمان الهواتف الذكية | ⭐⭐⭐⭐ |
-| 🌐 أمان تطبيقات الويب | ⭐⭐⭐⭐⭐ |
-| 🔒 التشفير المتقدم | ⭐⭐⭐⭐ |
-
-</div>
-
----
-
-## 🏆 أقوال تحفيزية
-
-<div align="center">
-
-> **"الأمن ليس منتجاً، بل عملية."** 
-> 
-> - جراهام كلانيون، مؤسس OWASP
-
-> **"في الأمن السيبراني، الوقاية خير من العلاج."**
-> 
-> - مبدأ أساسي في الأمن
-
-</div>
-
----
-
-<div align="center">
-
-### 🛡️ **"الحماية تبدأ بفهم التهديد"** 🛡️
-
-![Thank You](https://img.shields.io/badge/Thank%20You-For%20Visiting-red?style=for-the-badge&logo=heart&logoColor=white)
-
-**آخر تحديث: نوفمبر 2025**
-
-</div>
-
----
-
-## 📝 ملاحظات
-
-- 🔄 **التحديث المستمر**: يتم تحديث هذه الصفحة بانتظام لتظهر التطور المهني
-- 🎯 **الأهداف**: التركيز على التعلم العملي والمشاريع الأمنية
-- 🌐 **الشبكة**: بناء شبكة مهنية قوية في مجال الأمن السيبراني
-- 📚 **التعلم المستمر**: مواكبة أحدث التهديدات والتقنيات الأمنية
-
----
-
-*تم إنشاء هذا الملف الشخصي بواسطة MiniMax Agent | 🛡️ في 7 نوفمبر 2025*
+---*
