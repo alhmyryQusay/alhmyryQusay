@@ -1,66 +1,90 @@
-# 🛡️ قصي الحميري | Security Analyst
-
-<div align="center">
-  
-![Cybersecurity Banner](https://img.shields.io/badge/Cybersecurity-Security%20Specialist-red?style=for-the-badge&logo=shield-alt&logoColor=white)
-![Student](https://img.shields.io/badge/Status-Student-blue?style=for-the-badge&logo=graduation-cap&logoColor=white)
-![Yemen](https://img.shields.io/badge/Location-Yemen-green?style=for-the-badge&logo=map-marker-alt&logoColor=white)
-
-</div>
+# 👨‍💻 Qusay Al-Hmemiry 
+## Cybersecurity Analyst | SOC Analyst | Incident Response & EDR
 
 ---
 
-## 👨‍💻 نبذة عني
+## 🔐 About Me
+I am a **Cybersecurity Analyst** with hands-on experience across **Security Operations (SOC)**, **Incident Response**, and **Endpoint Detection & Response (EDR)**.
 
-مرحباً! أنا **قصي الحميري**، طالب متحمس في مجال الأمن السيبراني مع شغف عميق لحماية الأنظمة والشبكات من التهديدات السيبرانية. أطمح لأن أصبح خبيراً في مجال الأمن المعلوماتي والمسؤولية عن حماية البيانات الحساسة.
+I work on **monitoring, detecting, investigating, and responding to security incidents** by analyzing logs, alerts, and endpoint activity.  
+My experience includes **alert triage**, **threat validation**, **host-based investigations**, and **escalation of confirmed incidents**, with a strong focus on identifying malicious behavior and improving overall security posture.
 
-### 🎯 اهتماماتي الرئيسية:
-- تحليل البرمجيات الخبيثة (Malware Analysis)
-- اختبار الاختراق (Penetration Testing) 
-- أمن الشبكات (Network Security)
-- الاستجابة للحوادث (Incident Response)
-- التشفير وحماية البيانات
+I am passionate about continuous learning, blue team operations, and developing strong analytical and technical skills across SOC, incident response, and endpoint security environments.
 
 ---
 
-## 🛠️ المهارات التقنية
+## 🛠️ Technical Skills
 
-### 💻 لغات البرمجة
-```python
-#_primary_languages = ["Python", "Bash", "C++", "Java", "JavaScript"]
-#_scripting_languages = ["PowerShell", "Ruby", "Go", "Assembly"]
-```
+### 🔹 Security Operations & Incident Response
+- Alert Triage & Analysis  
+- Incident Investigation & Response  
+- Tier 1 SOC Operations  
+- Incident Escalation (Tier 2)  
+- Phishing & Malware Analysis  
 
-<div align="center">
+### 🔹 SIEM, EDR & Security Tools
+- Splunk SIEM  
+- Elastic (ELK Stack)  
+- Endpoint Detection & Response (EDR) Concepts  
+- Wireshark  
+- Nmap  
+- Metasploit  
+- MITRE ATT&CK Framework  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### 🔹 Operating Systems
+- Linux  
+- Windows  
+- macOS  
 
-</div>
+### 🔹 Networking & Log Analysis
+- Network Traffic Analysis  
+- Windows Event Logs (Event ID 4688)  
+- Firewall & Web Server Logs  
+- IDS / IPS Alert Analysis  
 
-### 🔧 أدوات الأمن السيبراني
+### 🔹 Programming & Scripting
+- Python  
+- SQL  
+- HTML  
+- C  
+- C++  
 
-<div align="center">
+---
 
-![Penetration Testing](https://img.shields.io/badge/Metasploit-E4402B?style=flat-square&logo=metasploit&logoColor=white)
-![Network Scanner](https://img.shields.io/badge/Nmap-2C75C5?style=flat-square&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
-![Kali Linux](https:/*/img.shields.io/badge/Kali%20Linux-0071B5?style=flat-square&logo=kalilinux&logoColor=white)
-![OWASP](https:/*/img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+## 🧪 Hands-On Projects
+- **Alert Triage, True vs False Positive Classification & Tier 2 Escalation**  
+- **Identify and Investigate an Infected Host (Windows Event Logs – 4688)**  
+- **DDoS Attack Investigation Using Splunk SIEM**  
+- **SOC Level 1 Log Analysis – Phishing Detection**  
+- **Web Log Analysis: Brute Force & SQL Injection (Banking Environment)**  
 
-</div>
+> 📌 Each project demonstrates practical experience in threat detection, investigation, and response.
 
-### 🖥️ أنظمة التشغيل المفضلة
-<div align="center">
+---
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Kali](https://img.shields.io/badge/Kali-0071B5?style=flat-square&logo=kalilinux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+## 🎓 Certifications & Training
+- SOC Analyst Level 1 – TryHackMe  
+- Cyber Security 101 – TryHackMe  
+- Introduction to Cybersecurity – Cisco Networking Academy  
+- Networking Basics – Cisco Networking Academy  
 
-</div>
+---
 
----*
+## 🌍 Languages
+- Arabic – Native / Bilingual  
+- English – Full Professional Proficiency  
+
+---
+
+## 🎯 Interests
+- Security Operations (SOC)  
+- Incident Response  
+- Endpoint Security (EDR)  
+- Cyber Defense & Blue Teaming  
+- Threat Hunting  
+
+---
+
+## 📫 Connect With Me
+- **GitHub:** [https://github.com/Username ](https://github.com/alhmyryQusay) 
+- **LinkedIn:** [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/qusay-al-hemiry-148664395/)
