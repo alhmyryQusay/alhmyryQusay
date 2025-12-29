@@ -38,7 +38,7 @@ I am passionate about continuous learning, blue team operations, and developing 
 
 ### 🔹 Networking & Log Analysis
 - Network Traffic Analysis  
-- Windows Event Logs (Event ID 4688)  
+- Windows Event Logs  
 - Firewall & Web Server Logs  
 - IDS / IPS Alert Analysis  
 
