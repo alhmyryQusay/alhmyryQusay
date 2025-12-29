@@ -1,4 +1,4 @@
-# 👨‍💻 Qusay Al-Hmemiry 
+#  Qusay Al-Hmemiry 
 ## Cybersecurity Analyst | SOC Analyst | Incident Response & EDR
 
 ---
