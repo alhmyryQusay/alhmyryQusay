@@ -46,7 +46,7 @@ I am passionate about continuous learning, blue team operations, and developing 
 - Python  
 - SQL  
 - HTML  
-- C  
+- C#
 - C++  
 
 ---
